@@ -1,1 +1,1 @@
-# project-secure-e---commerce
+Hello,here I am introducing an e - commerce website named ELECTRICBUY  where we sell all the electrical goods through an online web platform.This website holds the various electrical products based on the user requirement.# project-secure-e---commerce
